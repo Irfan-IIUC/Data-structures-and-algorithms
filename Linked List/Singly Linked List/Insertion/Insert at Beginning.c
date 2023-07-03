@@ -6,8 +6,7 @@ Insertion in the linked list can be divided into the following categories,
 -> Insert at the end
 -> Insert after a given node
 
-For insertion following any of the above-mentioned cases, we would first need to create that extra node.
-And then, we overwrite the current connection and make new connections.
+For insertion following any of the above-mentioned cases, we would first need to create that extra node. And then, we overwrite the current connection and make new connections.
 */
 
 #include<stdio.h>

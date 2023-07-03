@@ -1,6 +1,5 @@
 /*
-Assuming index starts from 0, we can insert an element at index i>0 as follows, bring a temporary pointer
-pointing to the node after the index you want to insert in the linked list.
+Assuming index starts from 0, we can insert an element at index i>0 as follows, bring a temporary pointer pointing to the node after the index you want to insert in the linked list.
 */
 
 #include<stdio.h>
